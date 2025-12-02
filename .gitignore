@@ -13,7 +13,7 @@ __pycache__/
 .vscode/
 .idea/
 
-# Project specifi c
+# Project  specifi c
 output/
 
 # Temporary files
