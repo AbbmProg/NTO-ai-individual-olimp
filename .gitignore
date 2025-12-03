@@ -22,4 +22,3 @@ output/
 logs/
 .monitor_pid
 solution.csv
-data/processed/processed_features.parquet
